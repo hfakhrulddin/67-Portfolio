@@ -68,6 +68,10 @@
   <ItemGroup>
     <Content Include="img\header-bg.jpg" />
     <Content Include="img\header-bg3.jpg" />
+    <Content Include="img\logos\.net.jpg" />
+    <Content Include="img\logos\angular.jpg" />
+    <Content Include="img\logos\JS.jpg" />
+    <Content Include="img\logos\SQL.jpg" />
     <Content Include="img\team\1.jpg" />
     <Content Include="packages.config" />
     <Content Include="LICENSE" />
