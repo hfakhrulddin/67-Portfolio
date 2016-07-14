@@ -66,6 +66,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\about\6.jpg" />
+    <Content Include="img\about\5.jpg" />
+    <Content Include="img\about\4.jpg" />
+    <Content Include="img\about\1.jpg" />
+    <Content Include="img\about\2.jpg" />
+    <Content Include="img\about\3.jpg" />
     <Content Include="img\header-bg.jpg" />
     <Content Include="img\header-bg3.jpg" />
     <Content Include="img\logos\.net.jpg" />
@@ -129,10 +135,10 @@
     <Content Include="font-awesome\css\font-awesome.min.css" />
     <Content Include="font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="img\about\1.jpg" />
-    <Content Include="img\about\2.jpg" />
-    <Content Include="img\about\3.jpg" />
-    <Content Include="img\about\4.jpg" />
+    <Content Include="img\about\a1.jpg" />
+    <Content Include="img\about\a2.jpg" />
+    <Content Include="img\about\a3.jpg" />
+    <Content Include="img\about\a4.jpg" />
     <Content Include="img\header-bgc.jpg" />
     <Content Include="img\logos\aetuts.jpg" />
     <Content Include="img\logos\creative-market.jpg" />
