@@ -34,6 +34,6 @@ C:\Div\Origin\Portfolio\VS\Amoor_VS\bin\Amoor_VS.dll
 C:\Div\Origin\Portfolio\VS\Amoor_VS\bin\Amoor_VS.pdb
 C:\Div\Origin\Portfolio\VS\Amoor_VS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Div\Origin\Portfolio\VS\Amoor_VS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Div\Origin\Portfolio\VS\Amoor_VS\obj\Debug\Amoor_VS.csprojResolveAssemblyReference.cache
 C:\Div\Origin\Portfolio\VS\Amoor_VS\obj\Debug\Amoor_VS.dll
 C:\Div\Origin\Portfolio\VS\Amoor_VS\obj\Debug\Amoor_VS.pdb
-C:\Div\Origin\Portfolio\VS\Amoor_VS\obj\Debug\Amoor_VS.csprojResolveAssemblyReference.cache

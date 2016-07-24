@@ -79,6 +79,9 @@
     <Content Include="img\logos\JS.jpg" />
     <Content Include="img\logos\SQL.jpg" />
     <Content Include="img\portfolio\BidRT.PNG" />
+    <Content Include="img\portfolio\PropertyManager_2.PNG" />
+    <Content Include="img\portfolio\RT-Bid-New.PNG" />
+    <Content Include="img\portfolio\Wingman.PNG" />
     <Content Include="img\team\1.jpg" />
     <Content Include="packages.config" />
     <Content Include="LICENSE" />
